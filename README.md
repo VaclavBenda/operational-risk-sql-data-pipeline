@@ -4,6 +4,10 @@ This project simulates a small operational risk incident reporting workflow in a
 
 The goal is to load raw incident data into SQL Server, profile the source data, clean and standardize it, apply data quality checks, create a valid reporting layer, and prepare Gold views for business reporting.
 
+<p align="center">
+  <img src="docs/Medallion_Architecture_Overview.png" alt="Medallion Architecture Overview" width="900">
+</p>
+
 ---
 
 ## 🎯 Project Goal
